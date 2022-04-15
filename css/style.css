@@ -1,0 +1,37 @@
+.navbar {
+    background-color: rgb(43, 247, 94);
+}
+.config{
+    background-color: aquamarine;
+    padding-top: 7px;
+    margin: 0;
+
+}
+
+.line-space {
+    line-height: 3rem;
+}
+.margin {
+    margin-bottom: 1.2rem;
+    padding-bottom: 7px;
+}
+
+p{
+    margin-bottom: 0;
+    padding: 1.2rem;
+}
+
+.parceiros-config{
+    background-color: rgb(250, 154, 207);
+    padding-top: 7px;
+    margin: 0;
+
+}
+
+.margin-top {
+    margin-top: 1.5rem;
+}
+
+.footer-config {
+    border-top: 2px solid black;
+}
